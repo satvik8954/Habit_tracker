@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Habit tracker for satvik",
+  "homepage": "https://github.com/satvik8954/Habit_tracker#readme",
+  "bugs": {
+    "url": "https://github.com/satvik8954/Habit_tracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satvik8954/Habit_tracker.git"
+  },
+  "license": "ISC",
+  "author": "satvik",
+  "type": "commonjs",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
